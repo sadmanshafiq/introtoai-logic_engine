@@ -21,6 +21,5 @@ Chaining, F, Menzies, T & Madzonga, K 2019, Forward Chaining vs Backward Chainin
 Anon 2019, Forward chaining and Backward chaining in java, viewed 26 May, 2019, <https://stackoverflow.com/questions/6091772/forward-chaining-and-backward-chaining-in-java>.
 
 Summary Report:
-Task	Coding	Report
-Sadman	55%	     45%
-Dylan	45%	     55%
+Coding: S	55% D	45%	
+Report: S	45% D	55%
